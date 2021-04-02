@@ -1,0 +1,37 @@
+Name                          Test Average   Grade          
+Julio          Garcia         86.15          B              
+Kim            Nguyen         97.80          A              
+Jesus          Ramirez        81.70          B              
+Christy        Knight         90.40          A              
+Sam            Bush           76.55          C              
+Laura          Landers        95.05          A              
+Sally          Mendoza        97.65          A              
+Ethan          Nadler         91.15          A              
+Tony           Templar        85.95          B              
+Paula          Whyte          86.55          B              
+Juan           Moreno         88.85          B              
+John           Kemper         77.30          C              
+Jane           Le             92.15          A              
+William        Palmer         93.95          A              
+George         Franco         83.75          B              
+Tony           White          82.10          B              
+Sam            Able           89.85          B              
+Barbara        Brown          97.10          A              
+Alan           Ernst          75.75          C              
+Ronda          Farmer         84.55          B              
+Bill           Wayne          82.10          B              
+Tilly          West           89.85          B              
+Bobby          Best           98.20          A              
+Thomas         Moore          75.75          C              
+Henry          Frank          84.55          B              
+===========================================================
+Average of test #1 85.16
+Average of test #2 87.84
+Average of test #3 84.81
+Average of test #4 88.60
+Average of test #5 90.54
+
+Overall test average: 87.39
+Highest test grade: 100.00
+Student(s) with highest test grade: 
+Kim Nguyen
